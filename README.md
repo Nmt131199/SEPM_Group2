@@ -57,7 +57,7 @@ npm start
 * __Pham Nguyen Thoai Nhi (https://github.com/phamnguyenthoainhi)__
 * __Quach Bo Boi (https://github.com/boiquach)__
 * __Nguyen Manh Triet (https://github.com/Nmt131199)__
-* __Tran Tie An (https://github.com/1trantienan)__
+* __Tran Tien An (https://github.com/1trantienan)__
 
 
 
